@@ -8,6 +8,5 @@
 
 ## Some Numbers About Me
 
-![talohana's GitHub stats](https://github-readme-stats.vercel.app/api?username=Johguxo&show_icons=true&theme=dracula)  
-
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Johguxo&show_icons=true&theme=dracula)](https://github.com/Johguxo/github-readme-stats)
 [linkedin]: https://www.linkedin.com/in/johann-gustavo-gonzales-inca-001a0b175/
